@@ -1,0 +1,1954 @@
+{
+  "format": 2,
+  "repository": "terabraincs/CS_Music",
+  "audioBaseUrl": "https://raw.githubusercontent.com/terabraincs/CS_Music/main/audio",
+  "bytes": 1227662443,
+  "files": [
+    {
+      "name": "BATTLE_BOSS_01.ogg",
+      "bytes": 4769237,
+      "sha256": "5c6ead21a4c1bd48e609990835f7302b84d10168b5e6830dcc049092058d11b3",
+      "duration": 154.0179375,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_BOSS_EPIC_01.ogg",
+      "bytes": 5764711,
+      "sha256": "d766587c8e7d1a10091b21811aae4b636e62cc6b92c798a3702fc9883a1c98bf",
+      "duration": 186.801625,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_BOSS_EPIC_02.ogg",
+      "bytes": 4807483,
+      "sha256": "1e7220b423e821d1e5178a68e8516cad95f405650beb6e1d8c7f6a9ed26a6e2e",
+      "duration": 154.07020833333334,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_NORMAL_01.ogg",
+      "bytes": 4847000,
+      "sha256": "0c0412e81bf2d9cc393a5e2c8fcf14b4779eccd0862497efec32a0c93a64ec06",
+      "duration": 150.4130625,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_NORMAL_02.ogg",
+      "bytes": 3332245,
+      "sha256": "d4a1dd3be1e18fe052dad5d45f46bc84c9c7fbef34154c3d969bec2e8ab789c8",
+      "duration": 99.9445,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_FLASHBACK.ogg",
+      "bytes": 4444644,
+      "sha256": "63b35be56628a0b778b01de2069a59e940cf36656024f295d731894b5493a9bb",
+      "duration": 132.3363125,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_LOBBY_01.ogg",
+      "bytes": 4049076,
+      "sha256": "dbf4c817d81ecf72ebcb4644eb4af083b5112c465c8ede5a12145ac11d7a1159",
+      "duration": 120.293875,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_01.ogg",
+      "bytes": 6828512,
+      "sha256": "666e98a1e4a6f817a41d2742783875d8e1e8a1799d705e214ff7f16d74aacb11",
+      "duration": 203.10204166666668,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_UPROAR.ogg",
+      "bytes": 3405405,
+      "sha256": "b4eae8f303deb54b9801d63f1ed8ed5fa087be33d563b5a40b329a4e7b3612bc",
+      "duration": 99.3698125,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_COFFIN_FULL.ogg",
+      "bytes": 5950887,
+      "sha256": "d5ea00d1496a45dd2a730945a37c57399df5d63c34a24b170c839b4a019e2190",
+      "duration": 184.29389583333332,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_FENRIN.ogg",
+      "bytes": 4045041,
+      "sha256": "6941722534bf268048117f9f61535fa557ab50dda84f2b33f3633ba1c8c55ca1",
+      "duration": 133.12,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_REPLACER.ogg",
+      "bytes": 1954703,
+      "sha256": "67c45ebbc6ee49f47f5ea04e2e041d04bb0e75eb64f2b08965b9613bf7994772",
+      "duration": 63.4514375,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TRAGEDY.ogg",
+      "bytes": 7332921,
+      "sha256": "bf6bd3e5d4737735d5b64ed71a67d3160284874c448a9a06d7a35ea53ceb9fa0",
+      "duration": 215.92816666666667,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_CONSPIRACY.ogg",
+      "bytes": 5268526,
+      "sha256": "0acafa0cb4dba71b765e092e4aa93f953cc2db387b063c5d20f2898af4dd72db",
+      "duration": 165.01552083333334,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_HOPE.ogg",
+      "bytes": 4590161,
+      "sha256": "d3e8306fd78d35f18ebaede4d4dd6cf3a1d7e598498410fa164b223518288367",
+      "duration": 144.92735416666667,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_LONELY.ogg",
+      "bytes": 4405905,
+      "sha256": "097cef3cf5109b346e14c7ed2fd4b163a27ea06f7161cf43dc8efd0c37b38e58",
+      "duration": 128.7314375,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TRAGEDY_HARD.ogg",
+      "bytes": 6331367,
+      "sha256": "c17b9ff06fd01de9b7982c60b6a64ed98119b13a7cf31d9fb7b83d623f20525e",
+      "duration": 195.970625,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_WOLFSBANE.ogg",
+      "bytes": 4205067,
+      "sha256": "de1e6f26762594e74b808717d6a54f7ce475c13980428d0d92b0ddbe9a789cfc",
+      "duration": 134.26939583333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ORCA.ogg",
+      "bytes": 4337035,
+      "sha256": "44569ed8a9c77eae92b5008fb5dc8058442008fef4e585b3375a82b6785a7356",
+      "duration": 135.83675,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ORCA_SAD.ogg",
+      "bytes": 6049065,
+      "sha256": "7fa83077bea55b5afb5fbf258f3c00c1f5b28a3d1ae39b186ca49b4153be8aee",
+      "duration": 167.31429166666666,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_NORMAL_03.ogg",
+      "bytes": 4800593,
+      "sha256": "5005d0d1e1d141426a6ea4ec980e9eea2e08d237ad32cc9066063112b7cfe232",
+      "duration": 148.37552083333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SOF_JOHN.ogg",
+      "bytes": 4606392,
+      "sha256": "83bc2143ebc09458137bd1322da8be6bd8b71e58a9aea61ce8882f50a4f29dd7",
+      "duration": 137.7436875,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_COUNTERISDE_NORMAL_01.ogg",
+      "bytes": 4692201,
+      "sha256": "320f55ea751f1a8630432eb887cb35698e90bab12a763efd7aa58eb21941b3f9",
+      "duration": 148.71510416666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_BOSS_KNIGHT.ogg",
+      "bytes": 6469146,
+      "sha256": "52b3970311e77c5b9391de59566925c7986138f97bdfd0c4baaa0c2b9d64c51b",
+      "duration": 207.30777083333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_HERO.ogg",
+      "bytes": 6762796,
+      "sha256": "51b4b1344d1df6455ab8c0be197544bfef5b915a1c846e42ba694ed1041f2f56",
+      "duration": 212.79347916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ORCA_ARRANGE.ogg",
+      "bytes": 4395675,
+      "sha256": "798a469220089c63ce56945d6744cc7ac846c17c04bab9ec61b53cd03de1bc43",
+      "duration": 138.9191875,
+      "isRegistered": true
+    },
+    {
+      "name": "UI_LOBBY.ogg",
+      "bytes": 4465696,
+      "sha256": "f587b79fba5d8d0c3ab27242df2e7af3576889415722bf571ecea958830265fc",
+      "duration": 134.00816666666665,
+      "isRegistered": true
+    },
+    {
+      "name": "UI_LOGIN.ogg",
+      "bytes": 3450444,
+      "sha256": "d0c0a902600efb7862e6ca4d5915cae8e168d5dd3f765a5e1174351fa55a8438",
+      "duration": 101.8514375,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_VIRTUAL.ogg",
+      "bytes": 5261319,
+      "sha256": "8d1a391f32e053d0c1338779fce6260edba4200feb8f5ea93b14aa49436ce949",
+      "duration": 163.10858333333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_BOSS_BISHOP.ogg",
+      "bytes": 5904079,
+      "sha256": "5a350f79fecfe064e16da59d7edad6e266c69d1ff5996584dc85ca072e285f5e",
+      "duration": 186.20083333333332,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_DESIGNPLAZA_NIGHT.ogg",
+      "bytes": 5322668,
+      "sha256": "d0c9d33720697cbc876153a67fa423df3174f055ab6866d2c7e39bff05667cb9",
+      "duration": 162.0375625,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SWAN_LAKE_WITHINTRO.ogg",
+      "bytes": 6409466,
+      "sha256": "1bd897ede4aba9ce53f3a94ab65f1c7e877cc462cf2249bf04315a2133af5989",
+      "duration": 199.2098125,
+      "isRegistered": true
+    },
+    {
+      "name": "THMEA_SAD_01.ogg",
+      "bytes": 6301314,
+      "sha256": "8aa0fd608b3583f7de53228482823f9213fd2fa0da02aba2aa01c50a0ef79b04",
+      "duration": 183.7714375,
+      "isRegistered": true
+    },
+    {
+      "name": "THMEA_SAD_02.ogg",
+      "bytes": 5758168,
+      "sha256": "ad99bf95b91558272d3451dcb764179ba1e0c019bf200f2f923d4e08f0a34a6f",
+      "duration": 172.12083333333334,
+      "isRegistered": true
+    },
+    {
+      "name": "UI_DIVE.ogg",
+      "bytes": 5264897,
+      "sha256": "dbedc336c1a8c4fa304cc7cfa0102f7a5e599b2f968894376b35aa7db497f0b1",
+      "duration": 155.7159375,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_BOSS_QUEEN.ogg",
+      "bytes": 6398687,
+      "sha256": "ad4ccd34c1f982413ef3d8e0766ee628794cab891b9d40a6c0e647c87abc8a22",
+      "duration": 201.19510416666665,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_02.ogg",
+      "bytes": 4019215,
+      "sha256": "b87e993a60b55cc5b3a8c47f593415c1d8a83335612b93d9f62122d1bc6322d3",
+      "duration": 121.7044375,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_BOSS_PAWN.ogg",
+      "bytes": 4358508,
+      "sha256": "eea69948e92d36e63e18777976fb638cc904f59bc0732e4b8abec637886af96d",
+      "duration": 131.78777083333333,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_VIRTUAL_2.ogg",
+      "bytes": 6326867,
+      "sha256": "ec909ffd01f7be05aa1bc443df1ad3bc5b8fbd0828397578c7f6ea588b3676a1",
+      "duration": 193.09714583333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ALPHATRIX.ogg",
+      "bytes": 3515338,
+      "sha256": "5b49fa9ac3655b2bb7ed46ac92000f896a2edeb85e1ed729ee9c55a2100877cd",
+      "duration": 107.78122916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_PRYDWEN.ogg",
+      "bytes": 3822026,
+      "sha256": "db88e0f47912bc2813b627694ef4fc07d15c92f8f363b4598a4576b905a34cdc",
+      "duration": 116.506125,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_WHITERABBIT.ogg",
+      "bytes": 4119591,
+      "sha256": "1b58e0c426874ce1a97dfd8941e2348b490c73d624ff8983dcc8ee5d25c54216",
+      "duration": 122.85389583333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THMEA_HRTBERRY.ogg",
+      "bytes": 4010179,
+      "sha256": "2e026ef06d44e0df193bfa6158a91a10e6ceefa2bddf413d90fb7e9e6346db81",
+      "duration": 118.09960416666667,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_03.ogg",
+      "bytes": 3985858,
+      "sha256": "92a6e4c82ea01210df6ca56d4ffbd0b225c2921bbebe29fe1a181c9f866f5975",
+      "duration": 113.08408333333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_POLICE_SWAT_4.ogg",
+      "bytes": 4063857,
+      "sha256": "f5a1ae2444956cc3e7e800146d811b3cfd506131be137b100b440be30282153c",
+      "duration": 123.45470833333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_BOSS_KING.ogg",
+      "bytes": 4954995,
+      "sha256": "18bc76273e03166b27f96cad92aeddf8aeee8863b696ed2e1e4400d4eae51d59",
+      "duration": 159.26858333333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_BOSS_SEO_YOON.ogg",
+      "bytes": 5103058,
+      "sha256": "c16088c34b4de3b4ff134717b57ef77c19c127b73dd5c128374644868ee53f72",
+      "duration": 158.0930625,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_LOGIN.ogg",
+      "bytes": 3434133,
+      "sha256": "1360a81240cdc85a641022344fe2f7a6c7cc5c7aa063929597d45078500d161b",
+      "duration": 105.0645,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CROSSROAD.ogg",
+      "bytes": 4445870,
+      "sha256": "ef183a8f3c60ccbef650a89dab281f5de6c531dc924914f13a04a1558f2e03dd",
+      "duration": 136.12408333333335,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SIXWING.ogg",
+      "bytes": 3557445,
+      "sha256": "b7974257bb10e0d49a4fdf8b171417a5ec55ae641777b205631d7f95003f43b9",
+      "duration": 115.46122916666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CHILD.ogg",
+      "bytes": 3554024,
+      "sha256": "4ceff9f8699575d11cc70cb563fe274d4fd6d6005c8a57d13a2c4f9dbe4f08a3",
+      "duration": 99.12,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_MEMORY.ogg",
+      "bytes": 7245607,
+      "sha256": "1a56ccfe1b5fe7503d7241f737d00dfd49a243da1704d287e1df13b31d517e1a",
+      "duration": 228.46695833333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_MEMORY_02.ogg",
+      "bytes": 7196135,
+      "sha256": "9eb1a3886c995fd6894d47d12e55d0dee89c93b0c2183746f67f2b51a36e86a6",
+      "duration": 228.85879166666666,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_NORMAL_04.ogg",
+      "bytes": 4454189,
+      "sha256": "2c24ae2442016044ac0c3bc50fc8f8a2fd4e5a4754acf7aae5624488c007ec48",
+      "duration": 133.72083333333333,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_04.ogg",
+      "bytes": 3768679,
+      "sha256": "efd1f95c782d16e3be6359cae620e14a81c644014e1f4ca76d00e6b811cba22e",
+      "duration": 120.9991875,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_05.ogg",
+      "bytes": 4164874,
+      "sha256": "72a4ccd0e6b8cd5781fd72239e5de5d741110460e616ae74ce169577902547e6",
+      "duration": 118.15185416666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ESPR.ogg",
+      "bytes": 3330838,
+      "sha256": "f98658e63e31de58dc97814b2b72d1dfd05f49e1b5cf4f3682259c65e62bdcbe",
+      "duration": 92.05552083333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ESPR_02.ogg",
+      "bytes": 3218395,
+      "sha256": "2ef8e971f18d4dc0a2338312b602ea5ed4083c74b56123b6c7b500db606edbb8",
+      "duration": 100.91102083333334,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_COUNTERSIDE_ICELAND_NOAMB.ogg",
+      "bytes": 4497990,
+      "sha256": "c76ef110848febe4184c8c7e86996cb6395a056d4eb539a28a2c80c2cfa62fd7",
+      "duration": 139.75510416666665,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SUMMER.ogg",
+      "bytes": 3698476,
+      "sha256": "ec48d32c9ac50f53a6acc00badfb73903745c675875f794cbb36bc9d5795e4eb",
+      "duration": 107.650625,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_SUMMER_01.ogg",
+      "bytes": 3793157,
+      "sha256": "85dedb8f703195074ed66bacf77ba9afe8b5841c1592fa36c01a75bfa5e0c213",
+      "duration": 112.95347916666667,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_BOSS_02.ogg",
+      "bytes": 4015873,
+      "sha256": "3ebe2c7c9d9565c0376c01346aa2c8cba415259715a9749010f7a34253a9dca2",
+      "duration": 125.93633333333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ADMIN.ogg",
+      "bytes": 3654783,
+      "sha256": "abc2cb5e2925c89d442c0fd8c78d512095322e4def83e5d3cfac1a695893cd53",
+      "duration": 116.53225,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SHADOW_PALACE.ogg",
+      "bytes": 3276040,
+      "sha256": "858251a736fb46016ca617f61b231e7f94dfafe09a555c1dfe6b3f4d81a68f09",
+      "duration": 104.93389583333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_ADMIN_LEE_SUYEON.ogg",
+      "bytes": 2895851,
+      "sha256": "16da2e964a8a36af2da2cca79f30dac1531c0e922b118cd23f526f7dc8ae508b",
+      "duration": 88.37225,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SIGMA.ogg",
+      "bytes": 3634545,
+      "sha256": "293d066b1ecc156003db292542890cc8ed714f2417aa22b94d2b2cb0fc10d198",
+      "duration": 111.17714583333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_STREGA.ogg",
+      "bytes": 3160774,
+      "sha256": "489260db09b737903ad91c06031e15f378cacfcd5fe6cde62049c4ee11963d5c",
+      "duration": 92.238375,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_YUNA_02.ogg",
+      "bytes": 4159826,
+      "sha256": "729e06748623c1b698f25cdff85603412013dce124a015fa5d9f263af4d50852",
+      "duration": 128.88816666666668,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_FLORA_MAID_SERVICE.ogg",
+      "bytes": 4272123,
+      "sha256": "581608983585dd2630f83c7c1ecc57bec9adcb1e24a7a2923c6f5c49f68f5559",
+      "duration": 123.37633333333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_FLORA_MAID_SERVICE_02.ogg",
+      "bytes": 2952962,
+      "sha256": "ade75a9b2eb86ab31017d81578ca74ede993a6a2c10c9719927a979dac41b31a",
+      "duration": 87.09222916666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_XMAS.ogg",
+      "bytes": 3041132,
+      "sha256": "0ff1504df43a58fa0ebbfff711af09b5014d161dcb755266dc6ff28214e4131f",
+      "duration": 86.30858333333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_MILITIA.ogg",
+      "bytes": 3289111,
+      "sha256": "23b4278439e687c7550c7ac339fa3dd68838015f8209cb1d05ba940f34973dc1",
+      "duration": 102.45225,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_LIFE_BEAGINS_GONE.ogg",
+      "bytes": 8519739,
+      "sha256": "9063f6a610866dc266c5674c6ad1bbdfe948d9865a6ff6cc8e91730edffdb2aa",
+      "duration": 275.52,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_LIFE_BEAGINS_GONE_MR.ogg",
+      "bytes": 8609662,
+      "sha256": "c88a0566817ffe60dfe9614591f42b255cd711c1b8f1ac6a4ab5dd4423bd496a",
+      "duration": 267.0236875,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_NORMAL_05.ogg",
+      "bytes": 3606476,
+      "sha256": "982f844f55fc0c8d9a537aaee1f4dab8b929a2f9042cc1df7fd356fb7831207e",
+      "duration": 111.28164583333333,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_BOSS_03.ogg",
+      "bytes": 3672418,
+      "sha256": "25e158edad9a14418feb0ba51468f0651dbfd269797ae4cc6ed83daf4427ad4b",
+      "duration": 113.97225,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_NORMAL_06.ogg",
+      "bytes": 3668495,
+      "sha256": "f62f0ba7c44a173a67981b0defbdcf875b7bfa468f2152d6d7e5c15c1ab4d99f",
+      "duration": 113.81552083333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ACADEMY.ogg",
+      "bytes": 3891909,
+      "sha256": "0b65add5dd2e57cd9e0747f268499855e295ae9ae542bfb759469e02c188119e",
+      "duration": 114.86041666666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SCAVANGER.ogg",
+      "bytes": 4288344,
+      "sha256": "89bf1833bd6ab0d838245ee7ab6482c60874b825e371436339a739fa5c30445a",
+      "duration": 132.07510416666668,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SCAVANGER_02.ogg",
+      "bytes": 1928682,
+      "sha256": "2787f257cbcd87174eae9867d446a55e07b6252095c791f1888aa2ad661877e7",
+      "duration": 55.6408125,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SUMMER_02.ogg",
+      "bytes": 2243000,
+      "sha256": "6721a8173f62491e4ded89c06c494f8da0f0f50b3d636b4c3658d3606d7c2549",
+      "duration": 69.7730625,
+      "isRegistered": true
+    },
+    {
+      "name": "THE_WAY_THE_DECISION.ogg",
+      "bytes": 7955806,
+      "sha256": "51bdeac2128afc975adb619c27548e88599665bc6e7a7bfc585d6ae7427ac986",
+      "duration": 242.7036875,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_BOSS_04.ogg",
+      "bytes": 3989658,
+      "sha256": "9a4442806eb7b118e5080b119a0f0653ba69e8a456dfbad4663c0cbc77ac75e8",
+      "duration": 124.290625,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_BOSS_04_HOLY.ogg",
+      "bytes": 1719500,
+      "sha256": "c91a9e6931f0e75eb3aa07ba9ec0afec4a4c3946a47fc6f10413ef8291bbe0dd",
+      "duration": 56.058791666666664,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_HORIZON_02.ogg",
+      "bytes": 5550077,
+      "sha256": "97145800a1bd1f004291947c0df954aa30386a53431e68a4fc28b342acf2398d",
+      "duration": 169.824,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SCAENA_01.ogg",
+      "bytes": 1975404,
+      "sha256": "bc43f30028e6dccb59e15fb4bcb29f64260097518b975dbe405fb3159b656eea",
+      "duration": 62.693895833333336,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SCAENA_02.ogg",
+      "bytes": 3915402,
+      "sha256": "e87baa0f5e9fa5433f1db898114f2a12a4a8e4eb8ba0909bfb1615a660ba6019",
+      "duration": 120.18939583333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_NANAHARA_01.ogg",
+      "bytes": 3616058,
+      "sha256": "c6c0c7f86f5a1cb7c526528ce246a6863747a0c0e3f0136f39b5427eac7968bd",
+      "duration": 119.43185416666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_NANAHARA_02.ogg",
+      "bytes": 4158813,
+      "sha256": "60369ef3f25897c8266dc3f2c717444e5df6da8cb032e2992a59a43daba7adfb",
+      "duration": 121.678375,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_06.ogg",
+      "bytes": 3726419,
+      "sha256": "ca719d287933b01577ebe90e945ad7224321e5b6ac993b9de3ae49896a6857f1",
+      "duration": 105.22122916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_STORM.ogg",
+      "bytes": 3079027,
+      "sha256": "f6c85304b8b53229a18d3edc3fda0861b56c2ab72c8a2e9ebffaaaace56a4631",
+      "duration": 93.17879166666667,
+      "isRegistered": true
+    },
+    {
+      "name": "UI_BASE_04.ogg",
+      "bytes": 4534519,
+      "sha256": "0019ecea371abb0e75df0a4b16412d2b15f6ff70394d3a1d0ce37ce118b22917",
+      "duration": 127.26858333333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_GREMORY.ogg",
+      "bytes": 3425315,
+      "sha256": "a4cd4d52f4f1e5df390c89aa227e4207ddc5486a472d88e4c31a55c8a7653c26",
+      "duration": 101.8514375,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_JIA_01.ogg",
+      "bytes": 4389787,
+      "sha256": "6284ec496d442be00f0c5e28003ff660c05991f8566bb3e56df6d9a2ec9adf72",
+      "duration": 133.64245833333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_GREATSWORD_02.ogg",
+      "bytes": 1931330,
+      "sha256": "f9b419d75c88561d24f7a87580c62840ba88a2001b53563c25a8dda51793bd42",
+      "duration": 52.608,
+      "isRegistered": true
+    },
+    {
+      "name": "HOUSE_OF_THE_RISING_SUN_01.ogg",
+      "bytes": 6362345,
+      "sha256": "94c1646527cb3ec01520cd881d8f2bb14c8c3a771d17e3284d5b2404c336a1b7",
+      "duration": 196.83266666666665,
+      "isRegistered": true
+    },
+    {
+      "name": "HOUSE_OF_THE_RISING_SUN_01_MR.ogg",
+      "bytes": 6402186,
+      "sha256": "c797e7af64dc01522bed8a4cb41e4eb3aeb64affd18f3eec21d8a635bd7bb9e8",
+      "duration": 196.83266666666665,
+      "isRegistered": true
+    },
+    {
+      "name": "HOUSE_OF_THE_RISING_SUN_02.ogg",
+      "bytes": 9300698,
+      "sha256": "049360605eadcabe5d169c6a49cd39c33d6cb54f6e3d448f6b75dc385433e79f",
+      "duration": 281.1036875,
+      "isRegistered": true
+    },
+    {
+      "name": "HOUSE_OF_THE_RISING_SUN_02_MR.ogg",
+      "bytes": 9449535,
+      "sha256": "2993061fa04fe89ea86d1cd7e3638176b2043b557d04ff813be56943fa595d0e",
+      "duration": 281.1036875,
+      "isRegistered": true
+    },
+    {
+      "name": "OFFICE_COMMON_01.ogg",
+      "bytes": 3237189,
+      "sha256": "673c06f500f3ee4fd01719e69a3827ff1ae4368dda92ffcec4ed14e920d26135",
+      "duration": 91.6636875,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_MAESTRO_02.ogg",
+      "bytes": 4598920,
+      "sha256": "66698fa08f53ab82a81c7a1444b370a1303f532c23dfc389ea5b5a45fa4fcd85",
+      "duration": 145.946125,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SECURITY_AGENT.ogg",
+      "bytes": 4735338,
+      "sha256": "79121664b5d9a82a6bba116c2518bbe8cfacf151432004b932ca836b1fde0280",
+      "duration": 140.69552083333335,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_MARIA.ogg",
+      "bytes": 4346370,
+      "sha256": "9fa0446fbc9b8b338de70213c87f731fe6bd85af2d908c259aa8c4d225b381b6",
+      "duration": 127.76491666666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_NIGHTMARE.ogg",
+      "bytes": 5459277,
+      "sha256": "3aece9307e2102b800be2e7e580d797ce54c6fcd4a428c29a57487b27d027aa1",
+      "duration": 163.970625,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CURIAN.ogg",
+      "bytes": 4708665,
+      "sha256": "fa6692f2a748745d98686c758d19921217159e86758256489a7ce49feaaa0092",
+      "duration": 143.98695833333332,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CURIAN_02.ogg",
+      "bytes": 3077986,
+      "sha256": "9fc0438e8381d9b5589b71baf3ba24df7c655346ca9895560e78586ddaf828e5",
+      "duration": 91.08897916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_MILITIA_03.ogg",
+      "bytes": 6300220,
+      "sha256": "d093053b012454c2ca475b449d9231a3c4f98382dbdf6c3df6094848ebafe21c",
+      "duration": 189.80572916666668,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_SIGMA_01.ogg",
+      "bytes": 5684923,
+      "sha256": "dc54fb456d98b68f09ce7c0affe0fee3b9ff67807c2896f5da344b184569908d",
+      "duration": 164.80654166666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_SIGMA_02.ogg",
+      "bytes": 4420300,
+      "sha256": "676ebd160282a8dbc76fbfc1a4b744857417fc4c58124726265062b59f66f3c0",
+      "duration": 125.466125,
+      "isRegistered": true
+    },
+    {
+      "name": "COLLABO_2022_01.ogg",
+      "bytes": 3742743,
+      "sha256": "fa9e6c9cf2a6593ffe932e10fe5a110b64a7e97a18347b4be5345327cfaa934c",
+      "duration": 116.24491666666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_DIMENSIONTRIMMING.ogg",
+      "bytes": 4569715,
+      "sha256": "2f3a833b1340e98e30d3e7dc63855c9d00f5e51ddebdd5edcfa9f68cdedef848",
+      "duration": 136.04572916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_REGINA.ogg",
+      "bytes": 6761372,
+      "sha256": "684eeab1909835bf88318f3f1e7e8bda64a37676af29f724cce530dde8f13311",
+      "duration": 204.61714583333332,
+      "isRegistered": true
+    },
+    {
+      "name": "COLLABO_2022_02.ogg",
+      "bytes": 4610539,
+      "sha256": "244a904cc631518631bf027631d680fa8f04fdc69cd3f750c4ae014069b1f561",
+      "duration": 128.209,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_GAMECIRCLE_01.ogg",
+      "bytes": 4831397,
+      "sha256": "c27bf2f051752de2758ccb2543c325cb6c109c656b04efa35756a81b870db3ab",
+      "duration": 144.64,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_GAMECIRCLE_02.ogg",
+      "bytes": 2418151,
+      "sha256": "6afc7cd06eebd033d17d6dd61b16675a3517a07645d6fd0bb09bcd3d548aac64",
+      "duration": 69.35510416666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_CHIFUYU_01.ogg",
+      "bytes": 6217317,
+      "sha256": "585d7f549bd4aeade0b1e969872036f5b69e8f86baccde121d0ff04f4f7c30c1",
+      "duration": 192,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_CHIFUYU_02.ogg",
+      "bytes": 5767121,
+      "sha256": "1b9e92824d528e4542ed5886a769fc2f39ad1386da0d19f61f2031016d84f5f1",
+      "duration": 173.06122916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CS_AMBIENT.ogg",
+      "bytes": 6075454,
+      "sha256": "514d6bd4750581f8156df6f9653cab6951de43471e636434e3ef42b115b4a91a",
+      "duration": 177.44979166666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CS_ORCHESTRA.ogg",
+      "bytes": 3471817,
+      "sha256": "8462dae3ec85799b9e93688b3efddda0bd3edaa4f4020fca1d9ee739734f4304",
+      "duration": 106.50122916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SEASON2.ogg",
+      "bytes": 8546395,
+      "sha256": "610244707f209d25b97f93fe7c4c167b65db09d0bbfa724b5ee874e9e04bd00f",
+      "duration": 266.9714375,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_ROSARIA.ogg",
+      "bytes": 3599724,
+      "sha256": "e33dfe7111fe255955f1645570e6477d914c7834e60994cecb6be865a8b15a96",
+      "duration": 111.07266666666666,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_07.ogg",
+      "bytes": 4224922,
+      "sha256": "4d399201dd81e4d3ff95324d6dbdb5d456124e898129f3b2d79ac25fa9a63861",
+      "duration": 123.32408333333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_LYUDMILA.ogg",
+      "bytes": 3443373,
+      "sha256": "93261ea230ba0b5a8c2fe4b299a3c7909b02648d62f501bcaa633d884e5ab260",
+      "duration": 107.41552083333333,
+      "isRegistered": true
+    },
+    {
+      "name": "NEW_WORLD_INST.ogg",
+      "bytes": 5958358,
+      "sha256": "617a90e6ec1ce4d965e7c782f1efbd8ac883a1b2500a9f946ee2f41acf386ce4",
+      "duration": 178.91266666666667,
+      "isRegistered": true
+    },
+    {
+      "name": "NEW_WORLD.ogg",
+      "bytes": 5822087,
+      "sha256": "7ba233bc24d5f0959bf48ceb964a09173a077ca5e208b3278714a27b11377e4a",
+      "duration": 178.896,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_DELTA_KYLE_AP_03.ogg",
+      "bytes": 3599312,
+      "sha256": "3d8ae6c41d66134d291fbf3522f4c3c1828bf532abd79f1d2a6f34d482af9957",
+      "duration": 105.56083333333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_DELTA_KYLE_AP.ogg",
+      "bytes": 4528752,
+      "sha256": "8699d099948dd543a5b5014e881f61a12bd48d2b74288287f8b91dff7eba156e",
+      "duration": 134.76572916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_DELTA_KYLE_AP_04.ogg",
+      "bytes": 4552813,
+      "sha256": "33e824488a22f68f748925112b1c6a3a60fd1d99ef6a43aa71f4f6fba83f5916",
+      "duration": 134.66122916666666,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CIEL.ogg",
+      "bytes": 4840491,
+      "sha256": "2ab757ddbacc095c6d46b4cbe6b0f78b634cb3c9d93a1847583f07d3ea672d5b",
+      "duration": 145.11020833333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SEASON2_VOCAL.ogg",
+      "bytes": 8464192,
+      "sha256": "64454d153505f59af80193a2d22401f0be5fb3726f5654ebd36162bc4cb1751a",
+      "duration": 266.808,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SECURITY_AGENT_02.ogg",
+      "bytes": 4078968,
+      "sha256": "4f1b9c2ed8ce3005204d44304b483687f73c56102ec57fba0561565bd1498cbb",
+      "duration": 120.048,
+      "isRegistered": true
+    },
+    {
+      "name": "UNBREAKABLE.ogg",
+      "bytes": 8149335,
+      "sha256": "fddabb215c82624b5045f576f0395b076e290dcbc5c61a91943189df63fd660b",
+      "duration": 249.288,
+      "isRegistered": true
+    },
+    {
+      "name": "UNBREAKABLE_INST.ogg",
+      "bytes": 8204486,
+      "sha256": "f0426c828cc6c98759783c7edd4780f39792894c1dea03745997580b2de7a499",
+      "duration": 249.288,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SUMMER_03.ogg",
+      "bytes": 3791709,
+      "sha256": "93a990ca6f6c6b97259c9d938c17c160a7257bf2cc6e9b0943af8785e0630621",
+      "duration": 110.952,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_ECCLESIA.ogg",
+      "bytes": 5022704,
+      "sha256": "26404d302d9711c5c1a9ef3f524d49c71db149f143a70e3a3ec9f70f6053bdde",
+      "duration": 153.24,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_PRYDWEN_02.ogg",
+      "bytes": 3147973,
+      "sha256": "991f2933f5e09378dcdb7a5c4c28dce774049cc2ca8a5bac80674e2ff12f4e90",
+      "duration": 90.07020833333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_EVE.ogg",
+      "bytes": 6181013,
+      "sha256": "526058c179c7d947f833c3220b442fa521a2871d3df826c0754f5138254e67b7",
+      "duration": 186.432,
+      "isRegistered": true
+    },
+    {
+      "name": "UI_SPORT_RACE_03.ogg",
+      "bytes": 3483778,
+      "sha256": "c4b713aa5b3ac18e1a53456b7171bf346e36eed366efc1f53bc77f7d25568739",
+      "duration": 97.632,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_DINO.ogg",
+      "bytes": 3985375,
+      "sha256": "386946c3b4924aee7e46d0235d9f720ea682c84996181067dcf15b615675ee9b",
+      "duration": 115.104,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_CAT.ogg",
+      "bytes": 4932405,
+      "sha256": "d6c476fb6a391e3dbaea210dffe89a8ec7dc8bce925299de98dc7501d990887a",
+      "duration": 151.056,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_MAVKA.ogg",
+      "bytes": 6535110,
+      "sha256": "fc1e7f630e2f338a4051287d99c26338b168a1bb3c6c8e2f9fad24e4c84097f0",
+      "duration": 197.88,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_PVP_01.ogg",
+      "bytes": 6003245,
+      "sha256": "418f5b03dbef9d5a6405a818c8aa92e13ea2cf1fa5508645e5cf5bbaa358d19d",
+      "duration": 182.25633333333334,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_EXCUTE.ogg",
+      "bytes": 7149872,
+      "sha256": "84e1a83578201f6e9f37ad3ffa42b4516c30dafc3937fde9448c2f419ba49e4b",
+      "duration": 228.31020833333332,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_HUNTRESS.ogg",
+      "bytes": 5378827,
+      "sha256": "090000be1610f827d629695ca9c026faaae797a91824afcbdc06a503a7940fa9",
+      "duration": 158.736,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_HUNTRESS_02.ogg",
+      "bytes": 2527189,
+      "sha256": "594cc21c58845a417c57669878bab865dc2e3c3fbb1c0ad43a2f84ed5ac06c82",
+      "duration": 73.176,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_SWAN.ogg",
+      "bytes": 7119514,
+      "sha256": "9fd49c672d1a37d7109de4efa29d5a3eab511046136c467db9367cb663353c34",
+      "duration": 212.506125,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_SURYA.ogg",
+      "bytes": 6864817,
+      "sha256": "e020369bc9f0c5f72b16e7175ef0f39771e0d40afc6b2d46e7aaa38410aeef9e",
+      "duration": 205.368,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SA_COMMANDER.ogg",
+      "bytes": 6226778,
+      "sha256": "fc2d0cc15fc86ffba88605bcae5d9a9c3cd324d1f609a2e459256b30c15c5f33",
+      "duration": 187.5591875,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_SA_COMMANDER_02.ogg",
+      "bytes": 1936279,
+      "sha256": "b91a5cd90ec7f2ef5773c2c67e384c7b349e1e3e6d59d6c135f871afdcb70623",
+      "duration": 57.1036875,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_TWINTAIL.ogg",
+      "bytes": 5263849,
+      "sha256": "f201d894ccc871ab71ad1b9435de4d67ac9f85e55b8b00aaa7fc4986861940e5",
+      "duration": 160.056,
+      "isRegistered": true
+    },
+    {
+      "name": "COLLABO_2025.ogg",
+      "bytes": 6362987,
+      "sha256": "57f9d196c7f5f5986e1819aa1570c4bb9e47176a6b597ff91e3f4972bd24ef5e",
+      "duration": 189.576,
+      "isRegistered": true
+    },
+    {
+      "name": "CUTSCENE_TALK_08.ogg",
+      "bytes": 4533028,
+      "sha256": "c0b89e187b5f8d17d430db114f251a6f69f746c4e497681518f13be03bc2f696",
+      "duration": 125.570625,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_BIRDCAGE.ogg",
+      "bytes": 6911550,
+      "sha256": "69b44443295d5b4082458772191b3414322265838b23ce6b6e96c269c937476e",
+      "duration": 204.696,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_BLUE.ogg",
+      "bytes": 5996343,
+      "sha256": "d08df8e9aca31c0c8dea806c98742ea9a0658745f9c016e4b5a525e5f29eb7c4",
+      "duration": 185.49552083333333,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_INTERN.ogg",
+      "bytes": 7169466,
+      "sha256": "21408795098b0d1cccf22271ce3ce4181360bd70bbb230cd8b46cf3c8bb289ad",
+      "duration": 206.99429166666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_CHARLOTTE.ogg",
+      "bytes": 6980693,
+      "sha256": "52451f3ba1cbf014b33acc05701db6a6fc06cdae95c3f12c92ba8484026aa77d",
+      "duration": 209.68491666666668,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_CLOUD.ogg",
+      "bytes": 6112410,
+      "sha256": "39eb09e7e14ca309728314a9b093ab187d904b5693e9d16db3b32223d5c1cb38",
+      "duration": 186.312,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CITY_CAMPAMENTO.ogg",
+      "bytes": 4405358,
+      "sha256": "63323381962efe2a75d3c2fc0cc35f6708d9d6bfc570b549ce090b2eb1b43378",
+      "duration": 128.304,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CITY_LOTUS.ogg",
+      "bytes": 4911621,
+      "sha256": "59ca5988c9082f8eb8bc85164195ef958d733cc89ee24428ad18f6a786bbad19",
+      "duration": 141.336,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CITY_CHAMBER.ogg",
+      "bytes": 5417564,
+      "sha256": "f73436fc098ffbb22114043a29cfbbfd1063c8c3a94fad43158f26b32f53bd53",
+      "duration": 162.096,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_KNIGHT.ogg",
+      "bytes": 5902963,
+      "sha256": "06d35ec2ec7578142daa08313890f7759a0c2d9953cf6ebaa6deb19a7fa7ea3c",
+      "duration": 183.92816666666667,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CITY_FRONTBAY.ogg",
+      "bytes": 6170181,
+      "sha256": "659877269a601429cde890a593408858ef79fe908bd847eee43b01b2366f8f44",
+      "duration": 184.2,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CITY_CHARADE.ogg",
+      "bytes": 4587762,
+      "sha256": "002e897d46eea2b11ad01ad49ddeaed00a3560c5d73e06801f4e4f180c68f67a",
+      "duration": 134.184,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_FENRIR_CA_HILDE_PR.ogg",
+      "bytes": 5006124,
+      "sha256": "e43ef1e4559a710cb38cf7532dbf4cdbe819ce1c6391f88902ac5e44be400fca",
+      "duration": 148.368,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CITY_G1.ogg",
+      "bytes": 4953208,
+      "sha256": "27dba9c64f96e0e3117aa3d8000e1fefd77414b8f00081e65fe7334df1c6e572",
+      "duration": 146.2595625,
+      "isRegistered": true
+    },
+    {
+      "name": "THEMA_CA_ANAPILIS.ogg",
+      "bytes": 4366640,
+      "sha256": "694265d908d637d771bf2daeb9eb1d9e54855a0e27819846243f3b2075185ad2",
+      "duration": 130.944,
+      "isRegistered": true
+    },
+    {
+      "name": "BATTLE_PVP_02.ogg",
+      "bytes": 4195248,
+      "sha256": "b8594248b3a2bf3f5220e83c114c68081a5b8fef1419fa07098a41e9eb3e60d8",
+      "duration": 125.33552083333333,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_01.ogg",
+      "bytes": 9818662,
+      "sha256": "00d72fe6678c79f75e690dd1e62e42724de18b0154ea4d8be434dc60bb4ec7e7",
+      "duration": 307.35675,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_02.ogg",
+      "bytes": 6687324,
+      "sha256": "6ce43dc29e506083efe0d2448d9e9f145111e4aa13524c9e8f55b7adc3c493d4",
+      "duration": 218.17470833333334,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_03.ogg",
+      "bytes": 7518113,
+      "sha256": "b49b6e8b32b108ac580282f21b8c678192d1b80e890bdcbd74202a3b2a04367a",
+      "duration": 235.23266666666666,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_04.ogg",
+      "bytes": 9612459,
+      "sha256": "4351d1608055c8faf6c35c65b8942e18d44541f23a879ecf780f565d61bc390e",
+      "duration": 309.1853125,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_05.ogg",
+      "bytes": 11987116,
+      "sha256": "62e44a6a01e6b0948bdd88fb988ed30470d884b976aed352b04806032179e089",
+      "duration": 378.7493958333333,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_06.ogg",
+      "bytes": 9044935,
+      "sha256": "cb3511434bdb8f78cda8268a2de7bf493263d9b23c5f7c41acad091f80198d5f",
+      "duration": 291.18695833333334,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_2022_02_V2.ogg",
+      "bytes": 4591724,
+      "sha256": "8bf116a2ff0cfda65d51afd5430ff3b8a4b52b05a7ba790105b402e06d82f4e4",
+      "duration": 128.209,
+      "isRegistered": false
+    },
+    {
+      "name": "COLLABO_INTRO_01.ogg",
+      "bytes": 9282562,
+      "sha256": "a03a1c1915d8e81eb9d5161fc34db71477b5bc385f5a5a894d8cd0d12ab4236c",
+      "duration": 290.1159375,
+      "isRegistered": false
+    },
+    {
+      "name": "CSM_BATTLE_NORMAL0.ogg",
+      "bytes": 4992206,
+      "sha256": "d4a87d4a3df0e337f8c0e32165e8bf4904155751522840ca6bcebc2a34438d75",
+      "duration": 154.17470833333334,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCEN_FOREST_LOOP.ogg",
+      "bytes": 877301,
+      "sha256": "baef67f2c75a2c603370dfb01f5f278f27cdaa74662cfdf798b41a42b737f0c7",
+      "duration": 24.790208333333332,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_AIRPLANE.ogg",
+      "bytes": 1240111,
+      "sha256": "a8fe5d9bd99efad465ae86eaf43177741a85fcd2b98ad749b8453fba6029711f",
+      "duration": 41.22122916666667,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_AMBIENT_CAVE.ogg",
+      "bytes": 1801586,
+      "sha256": "5b1176c9b608fc2c27a6eed80bd81aa8f100af0ea3d52247afafbf65495cba36",
+      "duration": 57.072,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_AMBIENT_RAIN.ogg",
+      "bytes": 1902742,
+      "sha256": "f3b3321f270aa0db8ceef1bdc4154776ba48da3abacb14cc8d63f988a397bb2b",
+      "duration": 56.86858333333333,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_AMBIENT_RAIN_02.ogg",
+      "bytes": 2254682,
+      "sha256": "efd1ed77714ef0a304e99a430aedd36165a17bdfe20a9f3b4abaf495cdf826b7",
+      "duration": 75.18041666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_AMBIENT_WIND.ogg",
+      "bytes": 3131744,
+      "sha256": "f14e15c98fc7763f94e2592e892025a52686468a4cea52d113df7d2473103b86",
+      "duration": 105.288,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_AMBIENT_WIND_DAY.ogg",
+      "bytes": 1409548,
+      "sha256": "572cf5f53061817ae34d1f1304214530b33d1007c684c05d1fd47cca609700d8",
+      "duration": 48,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_AMBIENT_WIND_NIGHT.ogg",
+      "bytes": 1653774,
+      "sha256": "be39f26710589a37cba5172f410ed9879c4b4ceb9f4068547bf6d117ff2c52d8",
+      "duration": 48,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_LOGIN_02.ogg",
+      "bytes": 3434133,
+      "sha256": "9a970c91510be4658fe4f9e6258f1a4e2fb6347e31fed56f0b6847b10c7999db",
+      "duration": 105.0645,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_SHOWER.ogg",
+      "bytes": 295425,
+      "sha256": "aac3a0602cceaadecf4baf13e4f34bc5720cbe7de78fd58ea6c96ff9a7442e12",
+      "duration": 8.724916666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_SILENCE.ogg",
+      "bytes": 174648,
+      "sha256": "6e3b6c7fdc03cd42fd01b607fe8e284993227a9ef06cdb816616e218ad953267",
+      "duration": 5.9298125,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_TALK_09.ogg",
+      "bytes": 2878147,
+      "sha256": "a59536bd66b49e8697d7b8428435973d869aed9d7c560acf7732585129e63476",
+      "duration": 81.68491666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "CUTSCENE_TRAGEDY_SOFT.ogg",
+      "bytes": 5647364,
+      "sha256": "91ce2987ae92cfb2e98c9d7759ee487699136dd454c16d451174d1655199676a",
+      "duration": 175.51675,
+      "isRegistered": false
+    },
+    {
+      "name": "fx_combat_monster_ministra_start.ogg",
+      "bytes": 155734,
+      "sha256": "8166ad9b166985cc8ab28f264161464615d0780c9d66795f101332ffc78ef881",
+      "duration": 6.112666666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "FX_CUTSCEN_BEEP3.ogg",
+      "bytes": 31122,
+      "sha256": "e0e71221024960ac54e2817cea90cb65158d1ea79aa35ff3b4560f61aa139a0a",
+      "duration": 6.060416666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_017.ogg",
+      "bytes": 9543032,
+      "sha256": "398596c86c8a645b89fb042564f0c89105cdca0ef537d10b5ebff954128dab3b",
+      "duration": 309.81225,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_106.ogg",
+      "bytes": 5077436,
+      "sha256": "a62e79d446f844073d349892d512740022073ee2dd7394eae405b6fad104b714",
+      "duration": 147.77470833333334,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_107.ogg",
+      "bytes": 6106073,
+      "sha256": "d77d828c7cf09d583318aa0058d3073d872d4b1a9effdd32441cae21608d8c04",
+      "duration": 192.4179375,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_108.ogg",
+      "bytes": 5045610,
+      "sha256": "435206dd3466c24f0cfb5932f432c9156fd12d042d08feb660a327e25b15897d",
+      "duration": 159.32083333333333,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_110.ogg",
+      "bytes": 4943825,
+      "sha256": "24eadf636bce59b8ac043dc44bf541364ea279369988d3d5d7cb43007fc59738",
+      "duration": 152.58120833333334,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_114.ogg",
+      "bytes": 4283179,
+      "sha256": "f41eef6de964cdf86ee6a6419511245eb0238949c4b1fd39308121aace959699",
+      "duration": 128.0521875,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_136.ogg",
+      "bytes": 5160446,
+      "sha256": "4c6ca4e405bf2905c5c67d29eb4353ac5a173eb99b74df5d0953d42e9c538b87",
+      "duration": 144.0130625,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_137.ogg",
+      "bytes": 5599512,
+      "sha256": "5ad72384752566d5637f988f29323681d1bfd4c990ea416eb12d17dcab633862",
+      "duration": 142.7330625,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_142.ogg",
+      "bytes": 2455038,
+      "sha256": "243cf38fa88006e5b9ff894221a5209ee3b61b526cc6beb6f2ba51e44d63944f",
+      "duration": 77.4530625,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_144.ogg",
+      "bytes": 4202370,
+      "sha256": "2320ef1711bee0bfd9aa4538499e2f9a38a5f716254d36cd2426ff2830d6cd43",
+      "duration": 129.56735416666666,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_146.ogg",
+      "bytes": 8077193,
+      "sha256": "d90e7a8fccd1e9d92569303e5f3f10d02b23c33291c37040e11c87be95613954",
+      "duration": 244.8195625,
+      "isRegistered": false
+    },
+    {
+      "name": "GUILTY_CA_JACKO.ogg",
+      "bytes": 9792374,
+      "sha256": "9c0cd2ccb053c2afec409392c9105b6182204b6c8c0474012d736209abdb2275",
+      "duration": 301.296,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_CA_ARMOR_INTRO.ogg",
+      "bytes": 1129698,
+      "sha256": "67b18cc136afd170bf12a6a0aff5617c0e449e80dc869cde47a7aa8cacfe4237",
+      "duration": 34.416,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_CA_FROZEN_INTRO.ogg",
+      "bytes": 743858,
+      "sha256": "c6c69768134252a47aa2370d9155d59c0233deb55146b18c0a760ba7bfa02c99",
+      "duration": 22.376375,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_CA_JIA_INTRO.ogg",
+      "bytes": 662411,
+      "sha256": "2a287e785cb37fe7e516a587ef4ea580288e429dcdfb0bd8bf43e7a0e9731bc2",
+      "duration": 20.113625,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_CA_ROSARIA_INTRO.ogg",
+      "bytes": 868052,
+      "sha256": "e4140690d242a3f8caa7a00a49ef7f0035b0a254da3e69ba1a37f69010fa0fa4",
+      "duration": 26.636166666666668,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_CA_SIGMA_INTRO.ogg",
+      "bytes": 830912,
+      "sha256": "77236d26513dd5444a7579f8ce5cd42015c6ffab3679c3027cca3284cecbb344",
+      "duration": 25.782875,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_CA_STREGA_YOO_NA_INTRO.ogg",
+      "bytes": 804260,
+      "sha256": "89fd317caee7f530f2fdbbab7ef401e941840f92f508b9cce853f81f94076072",
+      "duration": 24.215520833333333,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_CA_YOO_MI_NA_INTRO.ogg",
+      "bytes": 998960,
+      "sha256": "29f4d5daf4cc4444837cc9071b9f1a93bb39e41cf119d24c58a7d9ec68daad6c",
+      "duration": 28.9436875,
+      "isRegistered": false
+    },
+    {
+      "name": "SKIN_SIXWING_CA_ACTOR_INTRO.ogg",
+      "bytes": 1012956,
+      "sha256": "2061a0b53a9ba3a8101643a422e2e8ff2a2307adbe85cfa4bac20d48f0bfe565",
+      "duration": 31.686541666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_ALPHATRIX_02.ogg",
+      "bytes": 1829501,
+      "sha256": "7731832c885ad64be30e7bc2502694e6f84bce0ea6db886daaaf145f7de3af32",
+      "duration": 57.83510416666667,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_BOSS_KRAKEN.ogg",
+      "bytes": 3824073,
+      "sha256": "a2c52a09b2f89b7d36fe131b18deb34240f2ca675933d83306b5263878e832aa",
+      "duration": 115.176,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_BOSS_TIGER.ogg",
+      "bytes": 2706745,
+      "sha256": "ad1191a3fa0bd548674931736b4be649e999e9324e0c9ec55c7d877834d03b7c",
+      "duration": 81.99835416666667,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_CHARLOTTE_PART_A.ogg",
+      "bytes": 4432092,
+      "sha256": "250e266c0bb5d2719cbc184373997d228beb30b9a710209b7d989a62fdecccf5",
+      "duration": 134.76572916666666,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_CHARLOTTE_PART_B.ogg",
+      "bytes": 2752323,
+      "sha256": "912abffc2c0e1124ca2b77dc0ab959c3b9650f91c7e0a90e9beeb284480a555c",
+      "duration": 84.0359375,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_CHIFUYU_02_LOBBY.ogg",
+      "bytes": 5823116,
+      "sha256": "003d9594369b8531b8be6fe2581f14102b70371c0d476239726d7de02a4b91b4",
+      "duration": 173.11347916666668,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_CHIFUYU_03.ogg",
+      "bytes": 3610119,
+      "sha256": "6690cb00670c3282636ef7cad9f2619afa26e597ae0035b7e4eaf0889221f83e",
+      "duration": 104.4375625,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_CHIFUYU_04.ogg",
+      "bytes": 2560615,
+      "sha256": "655d408bc6a9106a97107479c2415ef338fe4d4560fa31576d177c99b4d8920c",
+      "duration": 78.94204166666667,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_CHIFUYU_05.ogg",
+      "bytes": 2806262,
+      "sha256": "14c63940237ff5dca2c3ed804bad900b09deb84e25a24537c9d93bbe30c38c43",
+      "duration": 88.65960416666667,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_CLOUD_02.ogg",
+      "bytes": 4877847,
+      "sha256": "1a301d3d8c12775fd84347d30858f20900f33ae21cdfaad5dad055ec19c12cfa",
+      "duration": 147.12164583333333,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_DELTA_KYLE_AP_02.ogg",
+      "bytes": 2201709,
+      "sha256": "302c2bb63c79364ae16e8c6e9c54f647299af360c049ff4b4b8e7c82bf7f5cb8",
+      "duration": 68.28408333333333,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_JIA_02.ogg",
+      "bytes": 4386139,
+      "sha256": "c612bce1b1b00f49fd7d45ba56b99c9a098885d5f22a7df3620ba003f7078c4c",
+      "duration": 133.69470833333332,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_MAVKA_PART_A.ogg",
+      "bytes": 3663522,
+      "sha256": "5a56bd458f4f3afb307baa0e1fb08dec567527f81f54f414024c54c665d5b0d8",
+      "duration": 108.528,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_MAVKA_PART_B.ogg",
+      "bytes": 2936012,
+      "sha256": "e9023656f6b327c8c3e40f174fe482a0b652030ed9f95c9169188beac647569d",
+      "duration": 92.136,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_REGINA_02.ogg",
+      "bytes": 6759271,
+      "sha256": "1143e49dd545a99d0da71c6b37c2c2838b827914fed2ee5493b737ec8288fec8",
+      "duration": 204.61714583333332,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_REGINA_PART_A.ogg",
+      "bytes": 2682873,
+      "sha256": "85991ce17f1cc7d267e9d2c34273cded552f36b40bd569663fbd421d9d07d93a",
+      "duration": 81.73714583333333,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_REGINA_PART_B.ogg",
+      "bytes": 4268301,
+      "sha256": "d198ef85cc033d0344d732b8177502b4763ab7c6c79230c58607d2083ecca043",
+      "duration": 129.61960416666668,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_SURYA_02.ogg",
+      "bytes": 3399378,
+      "sha256": "75dd34925376b8c7a4af40d73a9f8b6f2cb0b9ac2987242f56c70ef1dae77227",
+      "duration": 98.976,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_SURYA_03.ogg",
+      "bytes": 3311506,
+      "sha256": "e272eaf529ca561e1a49c941d8f4cbcaa118f4f5f4896993079a4845d3353620",
+      "duration": 101.784,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_SWAN_02.ogg",
+      "bytes": 3034737,
+      "sha256": "89a7946caca2c26bc3c89d083d14f5e96f55759ae1781f80b42976387049d2c9",
+      "duration": 89.232,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_SWAN_03.ogg",
+      "bytes": 3746974,
+      "sha256": "f1c03b38bbe8f77425376fd92bf08ef182fc7db5ef2945434476973713f59715",
+      "duration": 111.672,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_SWAN_04.ogg",
+      "bytes": 1837799,
+      "sha256": "3132abf1772ce51303235c1432946d4683b996da4fd495b3fc3a81b815cf8b42",
+      "duration": 55.848,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CA_YUNA.ogg",
+      "bytes": 4142040,
+      "sha256": "00030336bc070ebf6add313614fa70b5c51f5543ea1c302283ec88241a2afeb6",
+      "duration": 128.7836875,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CITY_CHARADE_02.ogg",
+      "bytes": 4690043,
+      "sha256": "5db1520b00fa6a056d76f0f583c6d91f6a930b0bdd42abbc5b42fcfed2cf000f",
+      "duration": 134.184,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CITY_FRONTBAY_02.ogg",
+      "bytes": 4874700,
+      "sha256": "7b9f3d6766dd707a732780acd266851c7f5364a622a0085d97a013cf96ee3693",
+      "duration": 147.36,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_COFFIN_CUT.ogg",
+      "bytes": 5185126,
+      "sha256": "c6172319e9e535980a4ef3f58b113af46f719952a81e170fbda4407d15629559",
+      "duration": 161.69797916666667,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_CS_ELECTRIC.ogg",
+      "bytes": 1692234,
+      "sha256": "394ec51e2ecc28f7c889feecc99ac72efe2297737cff4e786f11ec713dc553f3",
+      "duration": 50.442458333333335,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_DIVE_BOTTOM.ogg",
+      "bytes": 5542239,
+      "sha256": "b687ff3378c3a1ab5f78a1f61fac2522b6bb6ecc84c2d32eca0d10414c254e0c",
+      "duration": 169.169,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_DIVE_EATER.ogg",
+      "bytes": 5268773,
+      "sha256": "6a1da4660b877d4ec19654cb7d584cf01491184188669dc018f8267b48e3e373",
+      "duration": 165.2245,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_EXCUTE_MASTER.ogg",
+      "bytes": 7186219,
+      "sha256": "3d67193897373340a22c633d1f5dd840d6bc4ffd44b0f3484772a191b35690c7",
+      "duration": 228.44083333333333,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_FENRIR_CA_HILDE_PR_02.ogg",
+      "bytes": 1547221,
+      "sha256": "9e226a898543a59794cbb78af22b920df67fd4e5b347108401ebae7de00ff3df",
+      "duration": 46.176,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_FENRIR_CA_HILDE_PR_03.ogg",
+      "bytes": 4437779,
+      "sha256": "ada4853c70ff5c9eec5cd493dc6f48f979d386763e95be092ddb990d68e0d3be",
+      "duration": 131.112,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_GREATSWORD.ogg",
+      "bytes": 1742139,
+      "sha256": "0c7e511ad236fe534642b043d3107641c73789fdc1ecc4ce4b56e4b3690530b3",
+      "duration": 46.728,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_HERO_CHORUS_MUTE.ogg",
+      "bytes": 6765199,
+      "sha256": "935bca1e7efa716ebdbc1e77ae5ad85cb855deda77466ea793a27a01b7bf6ae3",
+      "duration": 212.79347916666666,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_MAESTRO.ogg",
+      "bytes": 4595144,
+      "sha256": "b1dc360cd2b8c9c196bdba41afe58226f897c312a0453e37534daf7d62a8c7c6",
+      "duration": 146.102875,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_MILITIA_02.ogg",
+      "bytes": 3289745,
+      "sha256": "fbb76fedd4e6adac6cd011305f0f2fbf0d436a14da715d38be307cea728f8a03",
+      "duration": 102.5045,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_NANAHARA_03.ogg",
+      "bytes": 4617657,
+      "sha256": "e42aad1aaaefb8d343e613b39e0f18fd1d04433c16f74e7d141dd00783860446",
+      "duration": 136.56816666666666,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_OMEN_INTRO.ogg",
+      "bytes": 1599211,
+      "sha256": "7eea18384ef0b189c509e64a7bdc701091f7e152713a590c8599b9f23a54c4f0",
+      "duration": 48.984,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_RED_BREEZE_FINAL.ogg",
+      "bytes": 8440547,
+      "sha256": "2b6d1c9b5e8929dad7295de4116c8032da9c7aec74be0387343a3016eaf39a0c",
+      "duration": 279.04,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_SA_COMMANDER_03.ogg",
+      "bytes": 4972912,
+      "sha256": "485c0d186642d29cf4a4753311528958e20c8dae8afcc721df7a5713062ace19",
+      "duration": 150.30858333333333,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_SECURITY_AGENT_03.ogg",
+      "bytes": 3562261,
+      "sha256": "49167806cebdc3e6b3c2a167accb493098a1146256bd1c961a5dd2ae5d86f884",
+      "duration": 104.544,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_SECURITY_AGENT_04.ogg",
+      "bytes": 3623334,
+      "sha256": "3a8db13ab3e398519f3736f53b6ed7381363cfb2e5a589df217e7eff58fde522",
+      "duration": 104.881625,
+      "isRegistered": false
+    },
+    {
+      "name": "THEMA_SWAN_LAKE_NOINTRO.ogg",
+      "bytes": 4339124,
+      "sha256": "951c066ae4cfc542f35ba29e7143d4d5f9deffa6eb50c186d4e0fb0d9f2a4940",
+      "duration": 136.4898125,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_BASE_01.ogg",
+      "bytes": 4686519,
+      "sha256": "011cee3a599ebfe2f0b42ae149a4f25ea5bf702caa7dc6cba6b6bd2263ea3cce",
+      "duration": 131.3175625,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_BASE_02.ogg",
+      "bytes": 4319129,
+      "sha256": "b21ddcaa14b1ed5ae01c12c9e921202a0642ead9c022c179510dbc185612053f",
+      "duration": 128.39185416666666,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_BASE_03.ogg",
+      "bytes": 4536830,
+      "sha256": "6081cb42c06282bbd12ff6dac717222c405094ed26667dafbfb263f334a81a5c",
+      "duration": 127.26858333333334,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_CONSORTIUM.ogg",
+      "bytes": 3445155,
+      "sha256": "4db1f0041e20ab38021478db7a7f1e87cd9bca9b5825653dbf7a2a8e7d2b6e8d",
+      "duration": 106.76245833333333,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_EVENTMERGE_2022_01_CONTRACT.ogg",
+      "bytes": 1281542,
+      "sha256": "3e4bc9fb48d75183735ca8eb20c07762f61be3081a57ef0c8c43b1bd86574bbe",
+      "duration": 35.3959375,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_EVENTMERGE_2022_01_MERGE.ogg",
+      "bytes": 1281542,
+      "sha256": "7d8a627e2bdb09cb2578c60b6505838288f324a4b9e2b06b5d19bffe59880f92",
+      "duration": 35.3959375,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_FIERCE_01.ogg",
+      "bytes": 4006118,
+      "sha256": "39584007dc7a7f9335ff975bbde4156b46c676ebbb2a9798da2e5ab1e0216793",
+      "duration": 126.35429166666667,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_FIERCE_02.ogg",
+      "bytes": 1564661,
+      "sha256": "deed457183898717411616eaaccc61eb3ed016a70bad67dda074b23f0aa8c78c",
+      "duration": 51.48735416666667,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_FIERCE_ESPR_KNIGHT.ogg",
+      "bytes": 8668705,
+      "sha256": "de3283c6f6d6c0700646bb813435c5a80b1c6aca1320f76f69d996f388fc4a92",
+      "duration": 273.946125,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_FIERCE_SOPRANO_01.ogg",
+      "bytes": 3957219,
+      "sha256": "c95d4b521d081f4d24368d0978206c027f51b057e372469f9bd730cbb243140c",
+      "duration": 123.384,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_FIERCE_SOPRANO_02.ogg",
+      "bytes": 3238400,
+      "sha256": "e44b66f3ceebf36b1ed5e117591ac388ab4f80491fdbe72f4a8fc9eb52d3eb1e",
+      "duration": 106.704,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_GUILD_DUNGEON.ogg",
+      "bytes": 3232134,
+      "sha256": "d67f63b62d2e46be48f0fdf5654daf0c7f7697b0cf9cdcb5f46fc0228e530133",
+      "duration": 101.72083333333333,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_LOBBY_TEST.ogg",
+      "bytes": 4465696,
+      "sha256": "8cf92bd8ba463ad8e5f0fab317399a38c4d641b4b2197207cb13c34d1b3c9c7c",
+      "duration": 134.00816666666665,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_LOGIN2.ogg",
+      "bytes": 3432309,
+      "sha256": "e7d5f61bfd0c6a291a004a433b96275c726b5253ba0bfe306848ecd38ecaab31",
+      "duration": 104.96,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_lUCKY_GAP.ogg",
+      "bytes": 1688268,
+      "sha256": "21f2f0df4e89285b8934b7c3a669508b1f5e393ff2f7360b7a8b3f93181b882a",
+      "duration": 45.47366666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_MATCH_TEN.ogg",
+      "bytes": 2598063,
+      "sha256": "07ad7714ff5a3dcaf2043f49ee81474a0b543b67d2c864f30bca4925884c4a9b",
+      "duration": 74.8930625,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_NEGOTIATE.ogg",
+      "bytes": 3455717,
+      "sha256": "32091739f50f167789d539e62a8cf498286428b67949b4073839ed69eec6df55",
+      "duration": 106.266125,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_PVP_01.ogg",
+      "bytes": 3392111,
+      "sha256": "e56d214c6e8165665bdb2744b46108a40c0bb5ee2b50e7e214068be7c7d34271",
+      "duration": 107.18041666666667,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_PVP_02.ogg",
+      "bytes": 2507039,
+      "sha256": "cb22526446e1accba3807387c385a3067cf933950ccba9dce3b5624dead8adcc",
+      "duration": 79.88245833333333,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_SPORT_RACE.ogg",
+      "bytes": 808608,
+      "sha256": "b4777bc151e30832dceff05f5a9eeaa31c1355e9777fb4230207ff60e0b80671",
+      "duration": 24.163270833333332,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_SPORT_RACE_02.ogg",
+      "bytes": 887031,
+      "sha256": "99ad38982cbba02f538d7d773a2749a7b1b177c82743a7355b5367c8b1a35a30",
+      "duration": 24.163270833333332,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_WARFARE_RESULT_LOSE.ogg",
+      "bytes": 816599,
+      "sha256": "676136bee7dcf06490541b53300080faf125a0b56bdaea2696fc9f3641b5f61e",
+      "duration": 24.7118125,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_WARFARE_RESULT_WIN.ogg",
+      "bytes": 738073,
+      "sha256": "76d3a73a72c6150d7f89fd2ca179596f55c3d7a811730298b359a2d2d4b44a0f",
+      "duration": 23.249,
+      "isRegistered": false
+    },
+    {
+      "name": "UI_WORLDMAP.ogg",
+      "bytes": 2862992,
+      "sha256": "fcdbdcbf2d11070b378f3500c9d2d4d27e2d92bede35e1ab0b7555af40477a99",
+      "duration": 88.21552083333333,
+      "isRegistered": false
+    }
+  ]
+}
